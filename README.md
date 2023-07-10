@@ -6,3 +6,9 @@
 3. Collateral: Exogenous (Crypto)
    1. wETH
    2. wBTC
+
+
+
+
+
+bookmark: https://youtu.be/wUjYK5gwNZs?t=6446

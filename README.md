@@ -11,4 +11,4 @@
 
 
 
-bookmark: https://youtu.be/wUjYK5gwNZs?t=6446
+bookmark: https://youtu.be/wUjYK5gwNZs?t=8871

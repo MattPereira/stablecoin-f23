@@ -140,4 +140,8 @@ contract DSCEngineTest is Test {
     //     vm.expectRevert(DSCEngine.DSCEngine__BreaksHealthFactor.selector);
     //     dsce.redeemCollateral(weth, AMOUNT_COLLATERAL + 1);
     // }
+
+    ///////////////////////////////////////
+    // depositCollateralAndMintDsc Tests //
+    /////////////////////////////////////
 }
